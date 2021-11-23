@@ -3,7 +3,7 @@ This is a repo for CMIP analysis on NCAR's jupyter hub.
 To access, direct the web browser to [https://jupyterhub.hpc.ucar.edu](https://jupyterhub.hpc.ucar.edu)
 
 ## copy this repository to the scratch folder
-git clone 
+git clone https://github.com/takaito1/NCAR-CMIP.git
 
 ## Copying a set of selected variables to scratch
 open this notebook, edit and run
